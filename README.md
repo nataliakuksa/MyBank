@@ -10,3 +10,9 @@ This is what the landing page looks like:
 
 This is what the create account page looks like:
 ![CreateAccount](https://user-images.githubusercontent.com/78843901/136151328-3cbbf151-8054-454a-b15c-ce32d8657f8c.png)
+
+The technology stack is: HTML, Javascript, CSS, Bootstrap, React, Node, MongoDB, Express, Docker.
+
+The features are account creation, deposits, withdrawals, and account lookup. In the future, I would like to add authentication with Firebase.
+
+The project is under the MIT license. 
